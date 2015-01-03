@@ -1,0 +1,36 @@
+.centered {
+    margin: auto;
+    padding-left: 15%;
+    position: absolute;
+  }
+  #timer-here {
+    width: 100%;
+    font-size: 30em;
+    font-family: "Consolas", Inconsolata, Monospace;
+    text-align: center;
+    color: green;
+  }
+  #date-here {
+    width: 100%;
+    position: relative;
+    top: 0.5em;
+    font-size: 7em;
+    font-family: "Consolas", Inconsolata, Monospace;
+    text-align: center;
+    color: green;
+  }
+
+.prettify {
+  position: relative;
+  text-align: center;
+  font-size: 60px;
+  font-family: Inconsolata;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color : red;
+}
